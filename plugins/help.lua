@@ -63,7 +63,7 @@ function run(msg, matches)
     
 〰〰〰〰〰〰〰
 
-✨Design By Ramin Metal @raminmetall ✨
+✨Design By Ramin Metal @raminmetall ✨Bot: @FMShot_Bot
 </i>]]
 end
 
