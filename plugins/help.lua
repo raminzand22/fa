@@ -63,7 +63,9 @@ function run(msg, matches)
     
 〰〰〰〰〰〰〰
 
-✨Design By Ramin Metal @raminmetall ✨Bot: @FMShop_Bot Channel: @xopoem
+✨ Design By Ramin Metal
+    Channel: @XoPoeM
+    Bot: @FMShop_Bot
 </i>]]
 end
 
